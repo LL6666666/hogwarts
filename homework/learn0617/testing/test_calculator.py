@@ -3,7 +3,7 @@ import logging
 import pytest
 import yaml
 
-from HOGWARTS.hogwarts.homework.pythoncode.calculator import Calculator
+from HOGWARTS.hogwarts.homework.learn0617.pythoncode.calculator import Calculator
 
 
 def get_calc_datas():
